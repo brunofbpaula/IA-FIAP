@@ -1,2 +1,2 @@
 # IA-FIAP
-Repositório para arquivos da matéria AI &amp; CHATBOT da FIAP.
+Repositório para notebooks desenvolvidos dentro do escopo das matérias AI &amp; CHATBOT (1º ano) e DISRUPTIVE ARCHITECTURES: IoT, IoB &amp; GENERATIVE AI (2º ano) da FIAP.
